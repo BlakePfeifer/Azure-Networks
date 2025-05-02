@@ -6,9 +6,7 @@ In this tutorial, we will walk through how to create a Virtual Network (VNet) in
 
 A **Virtual Network (VNet)** in Azure is a logically isolated network you create to securely connect Azure resources like virtual machines, databases, and applications. It is similar to a traditional network you would operate in your own data center but with added benefits like scalability, high availability, and security.
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 ## Environments and Technologies Used
 - **Microsoft Azure Portal**: For deploying and managing the virtual network.
